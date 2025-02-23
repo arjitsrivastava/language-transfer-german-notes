@@ -21,5 +21,14 @@ This repo contains:
 3. **Refine & Repeat**  
    - Revisit your notes for clarity.  
    - Update them if you discover mistakes or better explanations.
+
+
+## About Language Transfer
+- **Free Project:**  
+  - The course is freely accessible so it isn’t restricted by cost.  
+  - Funded by user donations and volunteer contributions.  
+- **Patreon Campaign:**  
+  - Users can [donate to support](https://www.patreon.com/languagetransfer) ongoing work and vote on which language courses are developed next.  
+  - The project is independent, unsponsored, and driven by the engagement and passion of its community.  
   
 Happy learning!
