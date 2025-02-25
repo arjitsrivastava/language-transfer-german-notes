@@ -7,9 +7,9 @@
 
 2. **Building German from the Germanic Side of English**  
    - Many everyday English verbs can be converted to German simply by **adding “-en”** (or a variant like “-ieren”) to the English root.  
-     - **learn → lernen**  
-     - **find → finden**  
-     - **come → kommen**  
+     - **learn → lernen**  (to learn --> lernen)
+     - **find → finden**   (to find --> finden)
+     - **come → kommen**   (to come --> kommen)
 
    - This helps beginners quickly form German verbs from familiar English counterparts.
 
